@@ -16,3 +16,5 @@ contributing variables, and other pertinent factors. The comprehensive explorati
 these aspects within this paper will guide the design and content of the envisioned dashboards, 
 ultimately enhancing our understanding of chronic diseases and enabling effective data visualization for 
 informed decision-making.
+
+The final presentation for the research can be found here: https://www.youtube.com/watch?v=GqfsFVm82rk&t=33s
